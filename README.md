@@ -1,13 +1,14 @@
 # WSN-ESP8266
-Some simple project of Single Hop WSN by using ESP8266/NodeMCU
+<h2>Some simple project of Single Hop WSN by using ESP8266/NodeMCU</h2>
 
+>Block Diagram of Wireless Sensor Network
   <p align="center"><img src="https://github.com/Coderakid01/Medias/blob/main/poster8.jpg" width="900"></a></p>
   
   </br>
-  >In this tutorial we will make a project Wireless Sensor Network by using the builtin sensors with 2 Unit of Hibiscus Sense along with IoT Cloud Platform FAVORIOT.
+  >In this tutorial we will make a project Wireless Sensor Network by using 2 Unit of ESP8266 or NodeMCU with 2 Sensors and Thingspeak as the IoT Platform.
   <h3>The Material you need for this Tutorial</h3>
-  <li>2 Units of Hibiscus Sense. <b><a href="https://myduino.com/product/myd-036/" target="_blank"> Click here to buy Hibiscus Sense</a></b></li>
-  <li>2 Units of USB Type C Cable.</li>
+  <li>2 Units of ESP8266 or Nodemcu. </li>
+  <li>2 Units of USB Type Micro B Cable.</li>
   
   </br>
   
