@@ -9,6 +9,7 @@
   <h3>The Material you need for this Tutorial</h3>
   <li>2 Units of ESP8266 or Nodemcu. </li>
   <li>2 Units of USB Type Micro B Cable.</li>
+  <li>2 Units of Sensors. </li>
   
   </br>
   
